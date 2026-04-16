@@ -1,4 +1,4 @@
-# NASDAQ Stock Data Analysis
+# Stock KPI Analysis using Yahoo Finance Data
 
 ## Project Overview
 
